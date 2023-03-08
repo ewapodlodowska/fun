@@ -1,0 +1,147 @@
+sashimi futomaki, takamisushi
+tamago futomaki, takamisushi
+chilli california, takamisushi
+unagi california, takamisushi
+fasolka edameme, takamisushi
+tatar z łososia, takamisushi, takushi sushi
+salmon maki, kobi-sushi
+grilled salmon maki, kobi-sushi, musi sushi
+tekka maki, kobi-sushi, musi sushi
+unagi maki, kobi-sushi
+ibodai maki, kobi-sushi, musi sushi
+surimi maki, kobi-sushi
+ebi maki, kobi-sushi, musi sushi
+kappa maki, kobi-sushi, musi sushi
+oshinko maki, kobi-sushi, musi sushi
+kanpyo maki, kobi-sushi
+kampyo maki, musi sushi
+avocado maki, kobi-sushi, musi sushi
+shichimi salmon futo maki, kobi-sushi
+grilled salmon futo maki, kobi-sushi, musi sushi
+shichimi tuna futo maki, kobi-sushi
+unagi futo maki, kobi-sushi
+ibodai futo maki, kobi-sushi
+yubi tempura futo maki, kobi-sushi
+ebi panko futo maki, kobi-sushi
+ikaten futo maki, kobi-sushi
+vege futo maki, kobi-sushi
+philadelphia futo maki, kobi-sushi
+tamago philadelphia futo maki, kobi-sushi
+kyuri philadelphia futo maki, kobi-sushi
+tuna futo maki, kobi-sushi
+salmon futo maki, kobi-sushi
+tuna and salmon futo maki, kobi-sushi
+negi salmon tempura futo maki, kobi-sushi
+ebi tonkatsu futo maki, kobi-sushi
+golden california, kobi-sushi
+zukkini california, kobi-sushi
+shichimi sweet roll, kobi-sushi
+tempura mayo roll, kobi-sushi
+tobiko california, kobi-sushi
+ebiten maki, kobi-sushi, musi sushi
+double tempura california, kobi-sushi
+dragon california, kobi-sushi
+ebiten grilled california, kobi-sushi
+spicy rainbow california, kobi-sushi
+salmon roll, kobi-sushi, musi sushi
+tuna roll, kobi-sushi
+ibodai roll, kobi-sushi
+vege roll, kobi-sushi
+iro california, kobi-sushi
+grilled salmon roll, kobi-sushi, musi sushi
+negi yubi gunkan maki, kobi-sushi
+ebi mayo gunkan maki, kobi-sushi
+ibodai gunkan maki, kobi-sushi
+ikura gunkan maki, kobi-sushi
+negi salmon gunkan maki, kobi-sushi
+negi tuna gunkan maki, kobi-sushi
+shake, kobi-sushi, musi sushi
+maguro, kobi-sushi, musi sushi
+ebi, kobi-sushi, musi sushi
+unagi, kobi-sushi, musi sushi
+ibodai, kobi-sushi, musi sushi
+tamago, kobi-sushi, musi sushi
+inari, musi sushi
+spicy shake, kobi-sushi, musi sushi
+shake & avocado, kobi-sushi
+zukkini & shake, kobi-sushi
+salmon sashimi, kobi-sushi
+maguro sashimi, kobi-sushi
+ibodai sashimi, kobi-sushi
+ika sashimi, kobi-sushi
+kurczak teriyaki, kobi-sushi
+kurczak w panko, kobi-sushi
+gyoza z kurczakiem, kobi-sushi
+gyoza z warzywami, kobi-sushi
+oshinko, musi sushi
+kalmar w panko, kobi-sushi
+wakame, kobi-sushi
+krewetki tempura, kobi-sushi, takushi sushi, takamisushi
+krewetki panko, kobi-sushi
+kim chi, kobi-sushi
+tako, musi sushi
+tatar z serioli, takushi sushi
+tatar z tuńczyka, takushi sushi
+słodkie tofu, takushi sushi
+opalany tuńczyk, takushi sushi
+opalany łosoś, takushi sushi
+seriola, takushi sushi
+ośmiornica, takushi sushi
+małże św.Jakuba, takushi sushi
+okoń morski, takushi sushi
+omlet japoński, takushi sushi
+węgorz pieczony, takushi sushi
+krewetka parzona, takushi sushi
+ryba maślana, takushi sushi
+gyuniku, musi sushi
+ebi mayo, musi sushi
+ikura, musi sushi
+kyuri salmon, musi sushi
+kyuri toro, musi sushi
+oyakomaki, musi sushi
+salmon gunkan, musi sushi
+ebiten hoso maki, musi sushi
+ibodai tempura maki, musi sushi
+salmon maki, musi sushi
+salmon tempura maki, musi sushi
+surimi tempura maki, musi sushi
+ebi mayo tempura maki, musi sushi
+ebi philadelphia maki, musi sushi
+ebiten butaniku maki, musi sushi
+ebiten salmon maki, musi sushi
+grilled ibodai futo maki, musi sushi
+ibodai futo tempura maki, musi sushi
+ikaten maki, musi sushi
+philadelphia maki, musi sushi
+philadelphia toro maki, musi sushi
+surimi mayo maki, musi sushi
+surimi philadelphia maki, musi sushi
+surimi tempura futo maki, musi sushi
+toro futo maki, musi sushi
+wegi futo maki, musi sushi
+triple taste, musi sushi
+unagi salmon maki, musi sushi
+vega maki, musi sushi
+apple pie tamago maki, musi sushi
+ebi tamago maki, musi sushi
+philadelphia tamago maki, musi sushi
+smoked salmon tamago maki, musi sushi
+musi tamago maki, musi sushi
+sashimi salmon maki, musi sushi
+sashimi tamago maki, musi sushi
+sashimi tekka maki, musi sushi
+sashimi vega maki, musi sushi
+classic california roll, musi sushi
+ebi california, musi sushi
+ebiten roll, musi sushi
+ebiten salmon roll, musi sushi
+flame roll, musi sushi
+gyuniku roll, musi sushi
+kunsel roll, musi sushi
+maguro salmon roll, musi sushi
+momo roll, musi sushi
+rainbow roll, musi sushi
+salmon chili roll, musi sushi
+salmon tempura roll, musi sushi
+sunflower roll, musi sushi
+surimi mayo roll, musi sushi

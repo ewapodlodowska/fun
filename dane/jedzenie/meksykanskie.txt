@@ -1,0 +1,40 @@
+burrito z wołowiną, Megustas Mexican Food
+burrito chilli con carne, Loco Taco
+burrito z wieprzowiną, Loco Taco
+burrito z chorizo, Megustas Mexican Food, Loco Taco
+burrito z kurczakiem, Megustas Mexican Food, Loco Taco, Hola Tacos
+burrito z krewetkami, Megustas Mexican Food
+burrito pabito, Queso Mexican Bar
+burrito maria guadalupe, Queso Mexican Bar
+burrito juan carlos z kurczakiem, Queso Mexican Bar
+burrito juan carlos z Jackfruitem, Queso Mexican Bar
+burrito chimichanga wołowa, Queso Mexican Bar
+burrito chimichanga wieprzowa, Queso Mexican Bar
+quesadillas z chorizo, Megustas Mexican Food, Loco Taco
+quesadillas z jackfruitem, Queso Mexican Bar
+quesadillas z wołowiną, Queso Mexican Bar
+quesadillas z wieprzowiną, Queso Mexican Bar, Loco Taco
+quesadillas z kurczakiem, Megustas Mexican Food, Queso Mexican Bar, Loco Taco, Hola Tacos
+quesadillas z krewetkami, Megustas Mexican Food
+tacos z chorizo, Megustas Mexican Food
+tacos z kurczakiem, Megustas Mexican Food, Loco Taco
+tacos z wołowiną, Megustas Mexican Food, Loco Taco
+tacos z wieprzowiną, Loco Taco
+tacos z krewetkami, Megustas Mexican Food, Loco Taco
+tacos sin pastor, Queso Mexican Bar
+tacos al pastor, Queso Mexican Bar
+tacos jaco taco, Queso Mexican Bar
+tacos hongo, Queso Mexican Bar
+tacos carne asada, Queso Mexican Bar
+tacos garbanzo, Queso Mexican Bar
+tacos pescado, Queso Mexican Bar
+tacos carne de puerco, Queso Mexican Bar
+tacos el pollo kurczak, Queso Mexican Bar
+tacos el pollo jackfruit, Queso Mexican Bar
+chimichanga z grillowanymi warzywami, Megustas Mexican Food
+zupa chilli con carne, Megustas Mexican Food
+nachos z chorizo, Megustas Mexican Food
+nachos z guacamole, Queso Mexican Bar 
+nachos z salsą, Hola Tacos
+churros, Megustas Mexican Food
+faszerowane jalapeño, Queso Mexican Bar

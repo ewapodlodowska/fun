@@ -1,0 +1,23 @@
+#ifndef GATUNEKFILMU_H
+#define GATUNEKFILMU_H
+
+enum GatunekFilmu {
+    AKCJI,
+    ANIMOWANY,
+    DRAMAT,
+    FANTASY,
+    HORROR,
+    KOMEDIA_AKCJI,
+    KOMEDIA_ROMANTYCZNA,
+    KOMEDIA,
+    KRYMINAL,
+    MYSTERY,
+    PRZYGODOWY,
+    ROMANTYCZNY,
+    SCI_FI,
+    SUPERBOHATERZY,
+    THRILLER,
+    ILOSC_GATUNKOW
+};
+
+#endif

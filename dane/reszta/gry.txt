@@ -1,0 +1,31 @@
+uno,karciana,2,10,inne
+poker,karciana,2,10,karty
+pan,karciana,2,4,karty
+państwa miasta,inne,2,10,kartki długopisy
+kółko i krzyżyk,inne,2,2,kartki długopisy
+warcaby,planszowe,2,2,inne
+chińczyk,planszowe,2,4,inne
+szachy,planszowe,2,2,inne
+pasjans,karciane,1,1,karty
+tysiąc,karciane,2,4,karty
+domino,inne,2,4,inne
+jenga,inne,2,8,inne
+twister,inne,2,4,inne
+scrabble,inne,2,4,inne
+ciepło zimno,inne,2,10,inne
+kalambury,inne,2,10,kartki długopisy
+ostatnia litera,inne,2,10,nic
+statki,inne,2,2,kartki długopisy
+makao,karciane,2,4,karty
+piotruś Pan,karciane,4,5,inne
+kuku,karciane,2,4,karty
+wojna,karciane,2,4,karty
+Machiavelli,karciane,2,4,karty
+memory,karciane,1,1,inne
+sudoku,inne,1,1,inne
+monopoly,planszowe,2,6,inne
+prawda i dwa kłamstwa,inne,2,10,nic
+prawda czy wyzwanie,inne,2,10,nic
+głuchy telefon,inne,2,10,nic
+bierki,inne,2,4,inne
+

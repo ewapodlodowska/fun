@@ -1,0 +1,48 @@
+red rock city,https://www.pyszne.pl/menu/red-rock-city-lublin?k1111=k1111&gclsrc=aw.ds&gclid=Cj0KCQiAubmPBhCyARIsAJWNpiMvtDWdvMA_NZI9OEdOoOEUXvA7X-eU11dmH86AUdDJ8xUqKl30KowaArHzEALw_wcB
+bycza buła,https://www.restauracje-jedzenie-online.pl/bycza-bula-lublin
+street chef,https://www.pyszne.pl/menu/street-szef-lublin?k1111=k1111&gclsrc=aw.ds&gclid=Cj0KCQiAubmPBhCyARIsAJWNpiM41feSDWKQGJh6CCEqy8baDp-EjPPzcROakLhLAZcdcygY_LrLVmcaApT4EALw_wcB
+atrium,https://www.pyszne.pl/menu/atrium-ristorante-pizzeria?utm_campaign=foodorder&utm_medium=organic&utm_source=google#kategoria_desery
+insomnia,https://insomnia-restauracja.pl/
+Chmielewski,http://chmielewski.lublin.pl/
+giuseppe,https://www.pyszne.pl/menu/giuseppe?kw1_city&k1111=k1111&gclsrc=aw.ds&gclid=Cj0KCQiAubmPBhCyARIsAJWNpiPHrtxxn5iHocIha-c4futJCaGl7KJcsMzvzvABGWV74sfi8xIAmy0aAhm3EALw_wcB
+pijalnie czekolady,https://wedelpijalnie.pl/lokale?search=lublin#Pijalnia_Czekolady_E_Wedel_W_Lublinie
+zielony talerzyk,https://www.zielonytalerzyk.com/
+mcDonald's,https://www.pyszne.pl/mcdonalds-lublin?k1111=k1111&gclsrc=aw.ds&gclid=Cj0KCQiAubmPBhCyARIsAJWNpiM1mtf1qqIi2HMxleo6I697JcijCohecf85b1N4KpInZB_Nydv0GpUaArd-EALw_wcB
+burger king,https://www.pyszne.pl/menu/burger-king-al-unii-lubelskiej-lublin?k1111=k1111&gclsrc=aw.ds&gclid=Cj0KCQiAubmPBhCyARIsAJWNpiMrCBdr-ubbNqgzz9r9eOIFPoDzEYKD53OHom1iXAdvZLlfJG2dDcIaAijeEALw_wcB
+indian palace lublin,https://www.pyszne.pl/menu/indian-palace-restauracja-indyjska?kw1_city&k1111=k1111&gclsrc=aw.ds&gclid=Cj0KCQiAubmPBhCyARIsAJWNpiM40Jc6c3IIr42ThkfVscdz96FOBJCN2j9--t6XexfGemXrEChejAUaAuKFEALw_wcB
+rani,https://www.pyszne.pl/menu/rani-indian-restaurant?kw1_city&k1111=k1111&gclsrc=aw.ds&gclid=Cj0KCQiAubmPBhCyARIsAJWNpiNuO2Zz7KLsqRraNAgaGN6m9A6Nk_HZVcDfL87l1CN3swkOOh3MEuUaAngEEALw_wcB
+małe indie,https://www.pyszne.pl/menu/male-indie?k1111=k1111&gclsrc=aw.ds&gclid=Cj0KCQiAubmPBhCyARIsAJWNpiO4yf5pSdfwRcFsgjVmxSZ2J9Z69IqmbKR4ZlAdTEsADyW7A4g0qjoaAkDJEALw_wcB
+shani jani,https://www.pyszne.pl/menu/shani-jani?k1111=k1111&gclsrc=aw.ds&gclid=Cj0KCQiAubmPBhCyARIsAJWNpiM9N6UEpCBs9PTKkBs7xlTbui0m_BQf08pwYGhSt5_4QQTRVDD8_24aAtI-EALw_wcB
+Kebab Turecki Nadstawna,https://www.pyszne.pl/menu/kebab-turecki-nadstawna?k1111=k1111&gclsrc=aw.ds&gclid=Cj0KCQiAubmPBhCyARIsAJWNpiNXknJDk4XJR8Q6YpHbFXS6mXCCEkvtIxO6ygSZQEeBnMySRSOrt4IaAoNCEALw_wcB
+Dostana Kebab,https://www.pyszne.pl/menu/dostana-kebab?k1111=k1111&gclsrc=aw.ds&gclid=Cj0KCQiAubmPBhCyARIsAJWNpiMXsJt2EF3XOwpOqzqt6zvAX_l5Ay-E0GpTQYt2jtUsdgOJ_x1QROsaAlHLEALw_wcB
+Zahir Kebab,https://zahirkebab.pl/lokale/lublin/lublin-spoldzielczosci-pracy/
+Imperial Kebab,https://www.pyszne.pl/menu/imperial-kebab-lublin?k1111=k1111&gclsrc=aw.ds&gclid=Cj0KCQiAubmPBhCyARIsAJWNpiPk2CTLv0h6HPr7JkjTDrAjXdvmLN_g6RkfL-XfxDuiB5MGUqD9w18aAhNmEALw_wcB
+u Mustafy Kebab Unicka,https://www.pyszne.pl/menu/u-mustafy-kebab-unicka?k1111=k1111&gclsrc=aw.ds&gclid=Cj0KCQiAubmPBhCyARIsAJWNpiNPNYZ_LNBUooIJPcH5PJ19a9DqhMfoFSS6CkThNVyq6VAW3Bq5gnEaAtssEALw_wcB
+arianos,https://www.pyszne.pl/menu/arianos-doner-kebab-lipowa-galeria-plaza
+crown,https://www.pyszne.pl/menu/crown-kebab?k1111=k1111&gclsrc=aw.ds&gclid=Cj0KCQiAubmPBhCyARIsAJWNpiP7n8Vl1NnHH9pXeE9IEA3A-Tu4JBeRrv0nzPrv6QYDmVr74mgioygaAiGUEALw_wcB
+Kebab Piri-Piri,https://www.piripirikebab.pl/
+Shawarma Express,https://www.pyszne.pl/menu/shawarma-express
+Fast Kebab & Grill Lublin,https://www.pyszne.pl/menu/fast-kebab-grill-lublin?k1111=k1111&gclsrc=aw.ds&gclid=Cj0KCQiAubmPBhCyARIsAJWNpiP-0gOvgaFsHOmzjfWHLRONxJH3CcVBOPv2DnVSlL3h6k53G6EtvUQaAv1IEALw_wcB
+habiby,https://www.kebab-habiby.pl/
+Pyszny Kebab,https://www.pyszne.pl/menu/pyszny-kebab-swidnik?k1111=k1111&gclsrc=aw.ds&gclid=Cj0KCQiAubmPBhCyARIsAJWNpiNZSHf78keV8sv_BER_gYXqmuQ1_xTI5O7aja3h8P2UjuD1gCk72uYaAlMFEALw_wcB
+Megustas Mexican Food,https://www.pyszne.pl/menu/megustas?k1111=k1111&gclsrc=aw.ds&gclid=Cj0KCQiAubmPBhCyARIsAJWNpiOJIwcyzNnGRzzzcmM3D4W9KX7R4kSStcFZXA1QbPUYdUku_IildrYaAt4mEALw_wcB
+Loco Taco,https://www.pyszne.pl/menu/loco-taco?k1111=k1111&gclsrc=aw.ds&gclid=Cj0KCQiAubmPBhCyARIsAJWNpiPeztX-XtBk7I1jnCUPgg5jrnMPm75lEoT0zYUFAwgLpJo00xyFy1saAqW9EALw_wcB
+Hola Tacos,https://glovoapp.com/pl/pl/lublin/hola-tacos-qlu/?utm_campaign=maplinks&utm_medium=organic&utm_source=googlemaps
+Queso Mexican Bar,https://queso-mexican-bar.order.dish.co/menus
+Bar Magdalenka,https://www.pyszne.pl/menu/bar-magdalenka?utm_campaign=foodorder&utm_medium=organic&utm_source=google
+zajazd u Jana,http://www.zajazdjan.pl/
+Pyza Dobra Kuchnia,https://www.pyszne.pl/menu/pyza-dobra-kuchnia-lublin?k1111=k1111&gclsrc=aw.ds&gclid=CjwKCAiA3L6PBhBvEiwAINlJ9L3YuoqneywBxUeRMzDc1UrUJNZLYQoi2TyLR3ubgTT_2EoQtgireBoCQWkQAvD_BwE
+Tanie danie,https://www.pyszne.pl/menu/tanie-danie-lublin?k1111=k1111&gclsrc=aw.ds&gclid=CjwKCAiA3L6PBhBvEiwAINlJ9Lm_e5DR6DpKY69u6-ZMVqhzyNyuR3Nuh7OUEniZJMxtBzS4CeRkBRoCRxMQAvD_BwE
+Smacznego,https://www.pyszne.pl/menu/smacznego-lublin?k1111=k1111&gclsrc=aw.ds&gclid=CjwKCAiA3L6PBhBvEiwAINlJ9EUr2iPh__B2xoPtQXcyz2BgrYBJH0b9hQJtTjjerzxfqFJVkDVMwhoCQ8oQAvD_BwE
+Bistro Kartoflisko,https://www.pyszne.pl/menu/bistro-kartoflisko?k1111=k1111&gclsrc=aw.ds&gclid=CjwKCAiA3L6PBhBvEiwAINlJ9JcbdV6j2JR8V7AoOe-cMWjOjU6jKHh8Ti5MDMzpkcepib8dAjDP1BoCAokQAvD_BwE
+Michapycha,https://www.pyszne.pl/menu/michapycha?k1111=k1111&gclsrc=aw.ds&gclid=CjwKCAiA3L6PBhBvEiwAINlJ9Df0rreZLxjGAoXe9lXGiY2Jx8F59TIKEIw3ppb9NjExRyhgcFs97BoC1O4QAvD_BwE
+Pierogarnia Stolnica,https://www.pyszne.pl/menu/pierogarnia-stolnica-lublin?k1111=k1111&gclsrc=aw.ds&gclid=CjwKCAiA3L6PBhBvEiwAINlJ9PJzQjnresXfx1OIKh3ufxON6aipYQoTPR4xaQ1s-SpOfb9GkkGndBoCiigQAvD_BwE
+takamisushi,https://takamisushi.pl/
+takushi sushi, https://www.takushisushi.pl/
+kobi-sushi,https://www.kobi-sushi.pl/
+musi sushi,https://musisushi.pl/
+zielony talerzyk,https://www.zielonytalerzyk.com/
+umea,https://www.umealublin.pl/
+Falla,https://www.pyszne.pl/menu/falla-lublin
+jazzve,https://www.pyszne.pl/menu/jazzve?k1111=k1111&gclsrc=aw.ds&gclid=Cj0KCQiAubmPBhCyARIsAJWNpiOyyiwT2-rckXwima5u7rY_x-dMBsOO9gZlDC_7sJGuFWhWx_3Yu70aAvLvEALw_wcB
+Insomnia,https://insomnia-restauracja.pl/
