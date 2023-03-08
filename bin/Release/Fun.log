@@ -1,0 +1,78 @@
+
+Processing C:\projekt\Fun\bin\Release\Fun.ciq 11.02.2022 22:08:05
+Log file: C:\projekt\Fun\bin\Release\Fun.log 
+Generating Sources... 
+Compiling Gentee Sources... 
+Build setup file: C:\Users\nice2\Desktop\instalka\instalka.exe 
+Adding temporary file(s) to EXE 
+C:\Users\nice2\AppData\Local\Temp\gentee01\english.lng 11.02.2022 22:08:06 4000  46.65%
+C:\Program Files (x86)\CreateInstall\res\logo\default - 1.bmp 20.03.2018 17:19:53 7308  52.55%
+C:\Program Files (x86)\CreateInstall\res\leftimg\uninstall\uninstall - 1.bmp 20.03.2018 17:19:53 20678  28.19%
+C:\Program Files (x86)\CreateInstall\res\leftimg\install\install - 1.bmp 20.03.2018 17:19:53 20678  33.44%
+Build setup file: C:\Users\nice2\AppData\Local\Temp\gentee01\uninstall.exe 
+Adding uninstall file(s) to EXE 
+Getting list of files 
+Packing files... 
+================================ 
+C:\projekt\Fun\bin\Release\dane\alkohole\amerykanskie.txt 20.01.2022 10:20:16 13  169.23%
+C:\projekt\Fun\bin\Release\dane\alkohole\desery.txt 20.01.2022 10:20:16 35  125.71%
+C:\projekt\Fun\bin\Release\dane\alkohole\fastfood.txt 20.01.2022 10:20:16 12  175.00%
+C:\projekt\Fun\bin\Release\dane\alkohole\indyjska.txt 20.01.2022 10:20:16 49  118.36%
+C:\projekt\Fun\bin\Release\dane\alkohole\kebaby.txt 20.01.2022 10:20:16 12  175.00%
+C:\projekt\Fun\bin\Release\dane\alkohole\meksykanskie.txt 20.01.2022 10:20:16 7  228.57%
+C:\projekt\Fun\bin\Release\dane\alkohole\polskie.txt 20.01.2022 10:20:16 6  250.00%
+C:\projekt\Fun\bin\Release\dane\alkohole\sushi.txt 20.01.2022 10:20:16 48  118.75%
+C:\projekt\Fun\bin\Release\dane\alkohole\wegetarianskie.txt 20.01.2022 10:20:16 26  134.61%
+C:\projekt\Fun\bin\Release\dane\filmy\akcji.txt 27.01.2022 15:05:01 1700  50.05%
+C:\projekt\Fun\bin\Release\dane\filmy\animowane.txt 20.01.2022 10:20:48 1666  51.20%
+C:\projekt\Fun\bin\Release\dane\filmy\dramat.txt 27.01.2022 15:06:13 1513  39.32%
+C:\projekt\Fun\bin\Release\dane\filmy\fantasy.txt 20.01.2022 10:20:48 1823  37.52%
+C:\projekt\Fun\bin\Release\dane\filmy\horrory.txt 27.01.2022 15:07:49 1660  41.80%
+C:\projekt\Fun\bin\Release\dane\filmy\komedie.txt 27.01.2022 15:10:23 1735  34.98%
+C:\projekt\Fun\bin\Release\dane\filmy\komedie_akcji.txt 20.01.2022 10:20:48 1780  34.83%
+C:\projekt\Fun\bin\Release\dane\filmy\komedie_romantyczne.txt 20.01.2022 10:20:48 1707  38.42%
+C:\projekt\Fun\bin\Release\dane\filmy\kryminaly.txt 20.01.2022 10:20:48 1598  33.66%
+C:\projekt\Fun\bin\Release\dane\filmy\mystery.txt 27.01.2022 15:12:11 1664  22.23%
+C:\projekt\Fun\bin\Release\dane\filmy\przygodowe.txt 20.01.2022 10:20:48 1731  16.17%
+C:\projekt\Fun\bin\Release\dane\filmy\romantyczne.txt 27.01.2022 15:14:06 1621  19.86%
+C:\projekt\Fun\bin\Release\dane\filmy\sci-fi.txt 27.01.2022 15:15:10 1717  15.84%
+C:\projekt\Fun\bin\Release\dane\filmy\superbohaterzy.txt 20.01.2022 10:20:48 1764  20.57%
+C:\projekt\Fun\bin\Release\dane\filmy\thrillery.txt 20.01.2022 10:20:48 1620  23.95%
+C:\projekt\Fun\bin\Release\dane\ikonki\baby.png 08.01.2022 14:40:45 11823  100.07%
+C:\projekt\Fun\bin\Release\dane\ikonki\bye.png 08.01.2022 14:28:56 15821  100.05%
+C:\projekt\Fun\bin\Release\dane\ikonki\cool.jpg 02.02.2022 14:53:57 6921  97.87%
+C:\projekt\Fun\bin\Release\dane\ikonki\cool.png 08.01.2022 20:05:26 12486  100.07%
+C:\projekt\Fun\bin\Release\dane\ikonki\film.png 20.01.2022 11:24:12 14364  100.06%
+C:\projekt\Fun\bin\Release\dane\ikonki\Fun.ci 05.02.2022 09:23:52 17697  15.64%
+C:\projekt\Fun\bin\Release\dane\ikonki\Fun.log 05.02.2022 09:23:53 246  63.82%
+C:\projekt\Fun\bin\Release\dane\ikonki\gry.png 20.01.2022 11:32:59 12656  100.07%
+C:\projekt\Fun\bin\Release\dane\ikonki\medium_age.png 08.01.2022 14:38:17 13602  100.06%
+C:\projekt\Fun\bin\Release\dane\ikonki\music.png 08.01.2022 14:36:27 11989  100.07%
+C:\projekt\Fun\bin\Release\dane\ikonki\old.png 08.01.2022 14:39:19 11120  100.08%
+C:\projekt\Fun\bin\Release\dane\ikonki\prawda.png 08.01.2022 14:35:27 18468  100.04%
+C:\projekt\Fun\bin\Release\dane\ikonki\prawda2.png 08.01.2022 14:32:01 13138  100.06%
+C:\projekt\Fun\bin\Release\dane\ikonki\wyzwanie.png 08.01.2022 14:32:37 16455  100.05%
+C:\projekt\Fun\bin\Release\dane\ikonki\wyzwanie2.png 08.01.2022 14:30:11 14203  100.06%
+C:\projekt\Fun\bin\Release\dane\ikonki\yummy.png 08.01.2022 14:37:27 20457  100.04%
+C:\projekt\Fun\bin\Release\dane\jedzenie\amerykanskie.txt 20.01.2022 10:19:36 1547  32.12%
+C:\projekt\Fun\bin\Release\dane\jedzenie\desery.txt 24.01.2022 13:36:35 1276  44.98%
+C:\projekt\Fun\bin\Release\dane\jedzenie\fastfood.txt 24.01.2022 13:08:06 1885  35.01%
+C:\projekt\Fun\bin\Release\dane\jedzenie\indyjska.txt 20.01.2022 11:07:07 2699  26.52%
+C:\projekt\Fun\bin\Release\dane\jedzenie\kebaby.txt 24.01.2022 13:17:43 1416  38.98%
+C:\projekt\Fun\bin\Release\dane\jedzenie\meksykanskie.txt 24.01.2022 14:02:17 1815  25.17%
+C:\projekt\Fun\bin\Release\dane\jedzenie\polskie.txt 25.01.2022 15:51:05 1376  40.91%
+C:\projekt\Fun\bin\Release\dane\jedzenie\restauracje.txt 25.01.2022 15:58:42 6076  39.63%
+C:\projekt\Fun\bin\Release\dane\jedzenie\sushi.txt 20.01.2022 10:19:36 4615  23.53%
+C:\projekt\Fun\bin\Release\dane\jedzenie\wegetarianskie.txt 24.01.2022 13:25:59 1430  44.96%
+C:\projekt\Fun\bin\Release\dane\reszta\gry.txt 11.02.2022 21:46:57 879  48.35%
+C:\projekt\Fun\bin\Release\dane\reszta\muzyka.txt 22.01.2022 16:31:34 1466  52.93%
+C:\projekt\Fun\bin\Release\dane\reszta\pytania.txt 20.01.2022 10:20:59 6423  43.39%
+C:\projekt\Fun\bin\Release\dane\reszta\wyzwania.txt 20.01.2022 10:20:59 2965  49.10%
+C:\projekt\Fun\bin\Release\Fun.ciq 05.02.2022 13:52:22 1864  40.87%
+C:\projekt\Fun\bin\Release\Fun.exe 10.02.2022 21:00:44 7126528  41.61%
+C:\projekt\Fun\bin\Release\Fun.log 11.02.2022 22:08:12 5661  27.20%
+C:\projekt\Fun\bin\Release\ikona.ico 15.01.2022 17:18:43 41662  38.20%
+================================ 
+All files: 58 [ 7268KB => 3127KB ] 
+File Size C:\Users\nice2\Desktop\instalka\instalka.exe: 3250 KB 
+Finish Successful 11.02.2022 22:08:13

@@ -1,0 +1,3 @@
+aaaa ICON "C:\\projekt\\Fun\\bin\\Release\\ikona.ico"
+
+#include "wx/msw/wx.rc"

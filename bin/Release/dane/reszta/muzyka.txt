@@ -1,0 +1,16 @@
+pop stary,https://www.youtube.com/watch?v=djV11Xbc914&list=PLC90FB71F6ECE17F3
+pop nowe,https://www.youtube.com/watch?v=kJQP7kiw5Fk&list=PL15B1E77BB5708555
+stare,https://www.youtube.com/watch?v=DVx8L7a3MuE&list=PLcjyPPePIwLm_jTtdYG9-XTzPAq2zZvUi
+stare polskie,https://www.youtube.com/watch?v=ePwwMgrPMW8&list=PLRm7CMrlXHQ8Ng-NjxTjzgwsskaCeg7L5
+rap,https://www.youtube.com/watch?v=RgKAFK5djSk&list=PLLf_1oiSU7VoEM8CUSl5z4SXiz7WAoiN6
+rap polski,https://www.youtube.com/watch?v=pImrABc4s58&list=PLL92dfFL9ZdKfRrEAZ8aa6wTU6Eo0Oc1I
+klasyka,https://www.youtube.com/watch?v=B7pQytF2nak&list=PL82I0QOc_FFldAYPDAmNTe1ygZtIQlI_n
+filmowa,https://www.youtube.com/watch?v=WpmILPAcRQo&list=PLDXXQa9mcrv0lzzbjcLiD0by9zYGDDHtE
+disco polo,https://www.youtube.com/watch?v=n2hJA78YuWw&list=PLKTnYvE7BJU1PCbSCVZB7S6VqVhEIwXC2
+rock,https://www.youtube.com/watch?v=lDK9QqIzhwk&list=PLVQ7g3e6O27cH8KG9mktLWH8zcqiwTntP
+rock polski,https://www.youtube.com/watch?v=kqTuU6S7GmU&list=PL_CVJqMmfPpBuzLJSNX3uQRnZC3ASgwI-
+hip-hop,https://www.youtube.com/watch?v=lsJLLEwUYZM&list=PLAPo1R_GVX4IZGbDvUH60bOwIOnZplZzM
+elektroniczna,https://www.youtube.com/watch?v=60ItHLz5WEA&list=PLHwn8cKeb1J159BvF06q5rl-pUf9xF0Lv
+klubowa,https://www.youtube.com/watch?v=taSubkjZUA4&list=PLRZlMhcYkA2GJCuab9iNizKn6tf7uPv6q
+reggae,https://www.youtube.com/watch?v=hzqFmXZ8tOE&list=PLp7pAH9am84O9Cd9VlW0W_qVVCL5PC3BI
+jazz,https://www.youtube.com/watch?v=CWzrABouyeE&list=PLGBuKfnErZlDidX0RBy08xS9WHVgeNA5i
